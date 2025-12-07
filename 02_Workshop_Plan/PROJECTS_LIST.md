@@ -306,7 +306,7 @@ Ultrasonic → ESP8266 → Servo
 
 ---
 
-# 📊 Component Summary
+<!-- # 📊 Component Summary
 
 ## Common Components (Both Classes):
 
@@ -351,7 +351,7 @@ Ultrasonic → ESP8266 → Servo
 | Home Automation | 400-500 |
 | Air Quality Monitor | 600-750 |
 | Smart Dustbin | 450-550 |
-| **Total Class 10th** | **~3800** |
+| **Total Class 10th** | **~3800** | -->
 
 ---
 

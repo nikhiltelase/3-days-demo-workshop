@@ -103,7 +103,7 @@
 │    └─────────────────────────────────────┘             │
 │                                                         │
 │    Features:                                            │
-│    ✅ 4 BLDC Motors                                    │
+│    ✅ 4 Motors                                    │
 │    ✅ Gyroscope Stabilization                          │
 │    ✅ Lightweight Frame                                │
 │    ✅ Throttle Control                                 │

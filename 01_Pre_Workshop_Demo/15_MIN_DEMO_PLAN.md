@@ -20,7 +20,7 @@
 ### 1️⃣ ESP Mini Drone (5 min)
 | Feature | Description |
 |---------|-------------|
-| 4 BLDC Motors | High-speed brushless motors |
+| 4 Motors | High-speed brushless motors |
 | Gyroscope Stabilization | Auto balance in air |
 | Lightweight Frame | Easy to fly |
 | Throttle Control | Up/Down control |
